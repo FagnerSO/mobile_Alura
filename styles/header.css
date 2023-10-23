@@ -69,6 +69,10 @@
 }
 
 @media screen and (min-width: 1024px){
+    .cabecalho{
+        padding: 0.5em 3em;
+    }
+    
     .container__titulo, .container__titulo--negrito{
         font-family: var(--fonte-secundario);
         font-size: 30px;
